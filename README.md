@@ -5,7 +5,7 @@
 -
 ### 一、B站视频评论数据爬取
 -
--童话镇评论数据：https://api.bilibili.com/x/v2/reply?jsonp=jsonp&type=1&oid=585787515&sort=2&pn=
+-童话镇评论数据： https://api.bilibili.com/x/v2/reply?jsonp=jsonp&type=1&oid=585787515&sort=2&pn=
 -
 -
 -
@@ -30,4 +30,3 @@
 -
 -
 -
-童话镇评论数据：https://api.bilibili.com/x/v2/reply?jsonp=jsonp&type=1&oid=585787515&sort=2&pn=
