@@ -4,11 +4,10 @@
 #### bs4
 ### 一、B站视频评论数据爬取
 -
-#### 童话镇评论数据： https://api.bilibili.com/x/v2/reply?jsonp=jsonp&type=1&oid=585787515&sort=2&pn=
++童话镇评论数据： https://api.bilibili.com/x/v2/reply?jsonp=jsonp&type=1&oid=585787515&sort=2&pn=
 
-#### 获取了对应的文件.xlsx，对于评论爬取.py文件，所爬文件大小 limit 2.56MB
--
--
++获取了对应的文件.xlsx，对于评论爬取.py文件，所爬文件大小 limit 2.56MB
+
 ### 二、弹幕爬取及数据
 -
 -
@@ -30,3 +29,11 @@
 -
 -
 -
++- Bulleted
++- List
++1. Numbered
++2. List
++**Bold** and _Italic_ and `Code` text
++[Link](url) and ![Image](src)
++```
++For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
