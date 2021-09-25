@@ -23,6 +23,7 @@
 #### pandas
 
 -![童话镇评论数据分析](https://user-images.githubusercontent.com/78712551/134761227-91f3357a-304c-450f-9e75-6961cbb38f13.png)
+
 对top20评论进行获取
 
 ![童话镇词云](https://user-images.githubusercontent.com/78712551/134761272-9f4b1fef-1d7f-457d-8b13-9429cceeae98.png)
@@ -32,6 +33,10 @@
 （2） 立意、真相、大哭，内容方面可以看出整个视频的基调是悲伤的
 
 （3） 媒体、报道、知道、真相等词基本上能够看出是网络舆论影响力的
+
+![水军数据排行榜](https://user-images.githubusercontent.com/78712551/134763516-fc052e2a-610f-4b8d-96e2-8710391c137c.png)
+
+查看评论数大于10条的用户
 
 ### 三、情感分析
 -
