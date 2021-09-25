@@ -19,7 +19,8 @@
 
 ### 二、可视化
 -
--
+-![童话镇评论数据分析](https://user-images.githubusercontent.com/78712551/134761227-91f3357a-304c-450f-9e75-6961cbb38f13.png)
+对top20评论进行获取
 -
 -
 -
