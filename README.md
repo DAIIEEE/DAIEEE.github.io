@@ -18,7 +18,9 @@
 `url = "https://api.bilibili.com/x/v2/reply?pn=" + str(page) + "&type=1&**oid=759395091**&sort=2"`此处的oid及对应b站改版前的av号，此处的oid是何同学的视频
 
 ### 二、可视化
--
+#### pyecharts 0.1.9.4
+#### jieba
+#### pandas
 -![童话镇评论数据分析](https://user-images.githubusercontent.com/78712551/134761227-91f3357a-304c-450f-9e75-6961cbb38f13.png)
 对top20评论进行获取
 -![童话镇词云](https://user-images.githubusercontent.com/78712551/134761272-9f4b1fef-1d7f-457d-8b13-9429cceeae98.png)
