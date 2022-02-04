@@ -49,7 +49,8 @@
 
 ### 五、客户价值分析RMF模型（python和tableau
 数据使用
--
+-![image](https://user-images.githubusercontent.com/78712551/152514594-aedec342-4dfe-43d5-b732-1abbdd3f8a62.png
+
 -
 +- Bulleted
 +- List
