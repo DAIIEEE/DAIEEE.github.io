@@ -38,18 +38,15 @@
 
 查看评论数大于10条的用户
 
-### 三、情感分析
--
--
--
-### 四、复刻tableau社区作品
+### 三、复刻tableau社区作品
 ![image](https://user-images.githubusercontent.com/78712551/134800553-aeaf4551-42ae-42ff-8c3e-5a46fa3e7b1a.png)
 
 ![image](https://user-images.githubusercontent.com/78712551/134800582-60026f09-5b48-4ccc-8ce5-f41bf35e0201.png)
 
-### 五、客户价值分析RMF模型（python和tableau）
+### 四、客户价值分析RMF模型（python和tableau）
+
 数据来源和鲸社区
--
+
 +- Bulleted
 +- List
 +1. Numbered
