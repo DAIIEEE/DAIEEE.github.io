@@ -46,6 +46,7 @@
 ### 四、客户价值分析RMF模型（python和tableau）
 
 数据来源和鲸社区
+![下载](https://user-images.githubusercontent.com/78712551/152515338-7792b6f0-547b-4f88-8f1c-4ef77305d11b.png)
 
 +- Bulleted
 +- List
